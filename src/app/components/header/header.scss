@@ -1,0 +1,20 @@
+$my-blue: #096fc1;
+$logo-dim: 56px;
+
+.app-header {
+  background-color: #096fc1;
+
+  .about-button {
+    margin-bottom: 8px;
+    cursor: pointer;
+    width: $logo-dim;
+    height: $logo-dim;
+  }
+  
+  .logo {
+    padding: 5px;
+    width: 100%;
+    height: 100%;
+    border-radius: $logo-dim / 2;
+  }
+}
