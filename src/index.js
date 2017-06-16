@@ -1,5 +1,6 @@
 import 'babel-polyfill';
 import 'bootstrap-css-only/css/bootstrap.css';
+import 'bootstrap-grid-ms/dist/bootstrap-grid-ms.min.css';
 
 import React from 'react';
 import ReactDOM from 'react-dom';
