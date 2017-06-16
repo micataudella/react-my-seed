@@ -87,7 +87,6 @@ src/                    --> all of the source files for the application
 ![Logo](src/assets/images/logos/gulp.png)
 ![Logo](src/assets/images/logos/react.png)
 ![Logo](src/assets/images/logos/bootstrap.png)
-![Logo](src/assets/images/logos/material-ui.png)
 ![Logo](src/assets/images/logos/webpack.png)
 ![Logo](src/assets/images/logos/karma.png)
 ![Logo](src/assets/images/logos/browsersync.png)
@@ -95,6 +94,8 @@ src/                    --> all of the source files for the application
 ![Logo](src/assets/images/logos/babel.png)
 ![Logo](src/assets/images/logos/sass.png)
 ![Logo](src/assets/images/logos/eslint.png)
+
+![Logo](src/assets/images/logos/material-ui.png)
 
 
 [react]: https://facebook.github.io/react/
