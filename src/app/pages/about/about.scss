@@ -1,0 +1,15 @@
+.app-about {
+  height: 100%;
+
+  .about-title {
+    font-weight: 600;
+  }
+}
+
+@media (max-width: 479px) {
+  .app-about {
+    .about-title {
+      font-size: 20px;
+    }
+  }
+}

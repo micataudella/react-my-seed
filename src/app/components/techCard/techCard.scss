@@ -1,0 +1,27 @@
+.app-tech-card {
+  height: 350px;
+  margin-bottom: 20px;
+
+  .image-container {
+    text-align: center;
+    
+    .tech-title {
+      padding: 0 15px !important;
+      text-align: left;
+      margin-bottom: 5px;
+    }
+    
+    .tech-image {
+      width: initial !important;
+      min-width: 0 !important;
+      padding: 10px;
+      height: 200px;
+    }
+  }
+}
+
+@media (max-width: 479px) {
+  .app-tech-card {
+    height: auto;
+  }
+}
